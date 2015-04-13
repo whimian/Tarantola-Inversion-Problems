@@ -1,5 +1,5 @@
 '''
-Estination of the epicentral coordinates of a seismic event
+Problem 1: Estination of the epicentral coordinates of a seismic event
 '''
 import numpy as np
 import matplotlib.pyplot as plt
